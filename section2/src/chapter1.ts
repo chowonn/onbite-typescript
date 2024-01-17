@@ -26,3 +26,5 @@ let unde1: undefined = undefined;
 // 리터럴 타입 (값 그 자체가 타입이 됨)
 // 리터럴 => 값
 let numA: 10 = 10;
+let strA: "hello" = "hello";
+let boolA: true = true;
